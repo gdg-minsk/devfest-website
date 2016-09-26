@@ -196,7 +196,7 @@
       "caption": "tracks"
     }
   ],
-  "hashtag": "dfua",
+  "hashtag": "devfestby",
   "social": [
     {
       "name": "twitter",
@@ -234,13 +234,13 @@
     "apiKey": "",
     "link": "https://www.facebook.com/expopivdennij",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
+      "latitude": 53.8904068,
+      "longitude": 27.5682085,
       "zoom": 15
     },
     "mapCenter": {
-      "latitude": 49.809841,
-      "longitude": 23.982805
+      "latitude": 53.890066,
+      "longitude": 27.566616
     },
     "images": [
       "/images/backgrounds/location_1.jpg",
