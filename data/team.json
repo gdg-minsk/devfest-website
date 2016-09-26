@@ -1,0 +1,202 @@
+[
+  {
+    "title": "Core Team",
+    "members": [
+      {
+        "name": "Dzmitry Hrashouski",
+        "photoUrl": "/images/people/dmitriy_groschovskiy.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/+DmitriyGroschovskiy",
+            "name": "Google+"
+          },
+          {
+            "icon": "facebook",
+            "link": "https://www.facebook.com/groschovskii",
+            "name": "Facebook"
+          },
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/groschovskii",
+            "name": "Twitter"
+          }
+        ],
+        "title": "Website • Speakers"
+      },
+      {
+        "name": "Yuri Zarovsky",
+        "photoUrl": "/images/people/yuri_zharousky.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/+SofiaHuts",
+            "name": "Google+"
+          },
+          {
+            "icon": "facebook",
+            "link": "https://www.facebook.com/sophie.huts.7",
+            "name": "Facebook"
+          }
+        ],
+        "title": "Website • Speakers"
+      },
+      {
+        "name": "Pavel Shchahelski",
+        "photoUrl": "/images/people/pavel_shahelsky.jpg",
+        "socials": [
+          {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/zasadnyy",
+            "name": "Linkedin"
+          },
+          {
+            "icon": "facebook",
+            "link": "https://www.facebook.com/pavel.shchahelski",
+            "name": "Facebook"
+          },
+          {
+            "icon": "website",
+            "link": "http://v.zasadnyy.com/",
+            "name": "Blog"
+          }
+        ],
+        "title": "Party • Happiness"
+      },
+      {
+        "name": "Alina Dolgikh",
+        "photoUrl": "/images/people/alina_dolgikh.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/104036874811391520583",
+            "name": "Google+"
+          },
+          {
+            "icon": "facebook",
+            "link": "https://www.facebook.com/alina.dolgikh",
+            "name": "Facebook"
+          }
+        ],
+        "title": "Party • Logistics"
+      },
+      {
+        "name": "Yulia Kovaleva",
+        "photoUrl": "/images/people/yulia_kovaleva.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://google.com/+OstapAndrusiv",
+            "name": "Google+"
+          },
+          {
+            "icon": "facebook",
+            "link": "https://www.facebook.com/yuliaa.kovaleva",
+            "name": "Facebook"
+          }
+        ],
+        "title": "Sponsors • Logistics"
+      },
+      {
+        "name": "Anton Novikov",
+        "photoUrl": "/images/people/anton_novikov.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/+ВасилинаМицак",
+            "name": "Google+"
+          },
+          {
+            "icon": "facebook",
+            "link": "https://www.facebook.com/anton.novikau",
+            "name": "Facebook"
+          }
+        ],
+        "title": "Speakers • Party"
+      },
+      {
+        "name": "Vladimir Gorshunov",
+        "photoUrl": "/images/people/vladimir_gorshunov.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/+VolodyaKarpliuk23",
+            "name": "Google+"
+          },
+          {
+            "icon": "facebook",
+            "link": "https://www.facebook.com/profile.php?id=100002335274577",
+            "name": "Facebook"
+          },
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/keyv23",
+            "name": "Twitter"
+          }
+        ],
+        "title": "Speakers"
+      },
+      {
+        "name": "Anton Rutkevich",
+        "photoUrl": "/images/people/anton_rutkevich.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/+DianaPinchuk",
+            "name": "Google+"
+          },
+          {
+            "icon": "facebook",
+            "link": "https://www.facebook.com/anton.rutkevich",
+            "name": "Facebook"
+          }
+        ],
+        "title": "Speakers"
+      }
+    ]
+  },
+  {
+    "title": "Program Committee",
+    "members": [
+      {
+        "name": "Ihor Dvoretskyi",
+        "photoUrl": "/images/people/ihor_dvoretskyi.jpg",
+        "socials": [
+          {
+            "icon": "facebook",
+            "link": "https://www.facebook.com/idvoretskyi",
+            "name": "Facebook"
+          },
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/idvoretskyi",
+            "name": "Twitter"
+          }
+        ],
+        "title": "Cloud stream"
+      },
+      {
+        "name": "Dmytro Danylyk",
+        "photoUrl": "/images/people/dmytro_danylyk.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/+DmytroDanylyk",
+            "name": "Google+"
+          },
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/dmytrodanylyk",
+            "name": "Twitter"
+          },
+          {
+            "icon": "website",
+            "link": "http://www.dmytrodanylyk.com/#/about",
+            "name": "Website"
+          }
+        ],
+        "title": "Android Stream"
+      }
+    ]
+  }
+]
