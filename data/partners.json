@@ -3,10 +3,10 @@
     "title": "template-creator",
     "logos": [
       {
-        "name": "GDG Lviv",
-        "url": "https://plus.google.com/102444623953913144164",
-        "logoUrl": "../images/logos/gdg-lviv.svg",
-        "width": 170
+        "name": "Google",
+        "url": "https://www.google.com.ua/intl/en/about/",
+        "logoUrl": "../images/logos/google.svg",
+        "width": 300
       }
     ]
   },
