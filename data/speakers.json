@@ -2,14 +2,14 @@
     "1": {
         "id": 1,
         "featured": true,
-        "name": "Abc Developer",
+        "name": "Aleksander Piotrowski",
         "title": "Software Engineer",
-        "company": "Google",
+        "company": "Applause",
         "companyLogo": "/images/logos/gdg-lviv.svg",
-        "country": "London, United Kingdom",
-        "photoUrl": "/images/people/mete_atamel.jpg",
-        "shortBio": "Mete is a Developer Advocate at Google, currently focused on helping developers with Google Cloud...",
-        "bio": "Mete is a Developer Advocate at Google, currently focused on helping developers with Google Cloud Platform. As a long-time Java and a recent C# developer, he likes to compare the two ecosystems. Prior to Google, he worked at Microsoft, Skype, Adobe, EMC, and Nokia building apps and services on various web, mobile and cloud platforms. Originally from Cyprus, he currently lives in Greenwich, not too far away from the prime meridian.",
+        "country": "Warsaw, Poland",
+        "photoUrl": "/images/people/alex_petrovskiy.jpg",
+        "shortBio": "Became a mobile developer after long run as a backend developer.",
+        "bio": "Became a mobile developer after long run as a backend developer. Because of age, holding senior positions from the day one as an Android programmer. Serial hackathon winner, or at least contender ;-)",
         "tags": [
             "Cloud",
             "Compute Engine",
@@ -20,19 +20,14 @@
         ],
         "socials": [
             {
-                "icon": "linkedin",
-                "name": "LinkedIn",
-                "link": "https://www.linkedin.com/in/meteatamel/"
+                "icon": "gplus",
+                "name": "Google+",
+                "link": "https://plus.google.com/+AleksanderPiotrowski"
             },
             {
                 "icon": "twitter",
                 "name": "Twitter",
-                "link": "https://twitter.com/meteatamel/"
-            },
-            {
-                "icon": "github",
-                "name": "GitHub",
-                "link": "https://github.com/meteatamel/"
+                "link": "https://twitter.com/pelotasplus"
             }
         ]
     },
@@ -86,7 +81,7 @@
         "company": "Firebase",
         "companyLogo": "/images/logos/gdg-lviv.svg",
         "country": "Minsk, Belarus",
-        "photoUrl": "/images/people/sascha_wolter.jpg",
+        "photoUrl": "/images/people/dmitriy_groschovskiy.jpg",
         "shortBio": "UX enthusiast with passion for the IoT. Board member of the Usability & User Experience committee at the federal association BITKOM.",
         "bio": "Sascha Wolter is a professional developer and user experience enthusiast with passion for the Internet of Things in all flavors. He also works as a consultant, trainer, lecturer, keynote-speaker, and author who focusses on understanding, innovation and value. Sascha is the founder of the User Group flashforum.de with more than 100,000 members, and as such he is committed to the interests of the user. After organizing internationally renowned events like beyond tellerrand from 2001 to 2011, he is now board member of the Usability & User Experience committee at the federal association BITKOM. When he is not tinkering with new soft- and hardware for Deutsche Telekom AG \u2013 Connected Home, he likes discovering the world together with his kids in an odd way.",
         "tags": [
@@ -103,58 +98,63 @@
             {
                 "icon": "website",
                 "name": "Website",
-                "link": "http://www.wolter.biz"
+                "link": "https://groschovskiy.com"
             },
             {
                 "icon": "twitter",
                 "name": "Twitter",
-                "link": "http://twitter.com/saschawolter"
+                "link": "http://twitter.com/groschovskii"
+            },
+            {
+                "icon": "facebook",
+                "name": "Facebook",
+                "link": "https://www.facebook.com/groschovskii"
             },
             {
                 "icon": "linkedin",
                 "name": "LinkedIn",
-                "link": "http://www.linkedin.com/pub/sascha-wolter/5/a38/493"
+                "link": "https://www.linkedin.com/in/groschovskiy"
             }
         ]
     },
     "4": {
         "id": 4,
         "featured": true,
-        "name": "Rustem Arzymbetov",
-        "title": "Software Engineer",
-        "company": "Google",
+        "name": "Alexandr Belotserkovskiy",
+        "title": "Developer Evangelist",
+        "company": "Microsoft",
         "companyLogo": "/images/logos/gdg-lviv.svg",
-        "country": "Mountain View, United States",
-        "photoUrl": "/images/people/rustem_arzymbetov.jpg",
+        "country": "Moscow, Russian Federation",
+        "photoUrl": "/images/people/alex_belotserkovskiy.jpg",
         "shortBio": "Rustem is working at Google for last 8 years. Was in Search and Android teams. Big fan of perform...",
         "bio": "Rustem is working at Google for last 8 years. Was in Search and Android teams. Big fan of performance optimizations.",
         "tags": [
             "Cloud",
-            "Performance",
-            "TensorFlow"
+            "IoT",
+            "Azure"
         ],
         "badges": [
 
         ],
         "socials": [
             {
-                "icon": "gplus",
-                "name": "Google+",
-                "link": "https://plus.google.com/102117493667558776856"
+                "icon": "facebook",
+                "name": "Facebook",
+                "link": "https://www.facebook.com/ahriman42"
             }
         ]
     },
     "5": {
         "id": 5,
         "featured": true,
-        "name": "Adrian Kajda",
-        "title": "Product Manager/Developer",
-        "company": "Sygic",
+        "name": "Sergey Popkov",
+        "title": "Android Developer",
+        "company": "CactusSoft",
         "companyLogo": "/images/logos/gdg-lviv.svg",
-        "country": "Opole, Poland",
-        "photoUrl": "/images/people/adrian_kajda.jpg",
+        "country": "Minsk, Belarus",
+        "photoUrl": "/images/people/sergey_popkov.jpg",
         "shortBio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app wa...",
-        "bio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app was aquired by Sygic.",
+        "bio": "Био - с 2007 по 2014 работал в компании СООО \"Системные технологии\" сначала WEB-разработчиком, а с появлением ОС Android - главным Android специалистом в отделе мобильных разработок . С 2014 работаю в компании Cactussoft на должности Android Tech Lead.",
         "tags": [
             "Android",
             "Entrepreneurship"
@@ -166,21 +166,21 @@
             {
                 "icon": "gplus",
                 "name": "Google+",
-                "link": "plus.google.com/+AdrianKajda"
+                "link": ""
             }
         ]
     },
     "6": {
         "id": 6,
         "featured": true,
-        "name": "Gerard Sans",
-        "title": "Technical Evangelist",
+        "name": "Alexey Buzdin",
+        "title": "Software Engineer",
         "company": "AngularZone",
         "companyLogo": "/images/logos/gdg-lviv.svg",
-        "country": "London, United Kingdom",
-        "photoUrl": "/images/people/gerard_sans.jpg",
-        "shortBio": "Angular Google Developer Expert. International speaker and trainer.  Enjoy running AngularLabs London.",
-        "bio": "Angular Google Developer Expert. I am a Computer Science Engineer specialised in Web. International speaker and trainer. I am an Angular fanboy and a community activist fighting for the JavaScript revolution. I have lived and worked for all sorts of companies in Germany, Brazil, UK and Spain. I am always up for a good challenge. I enjoy running AngularLabs London, mentoring students, participating in the community, giving talks and writing technical articles at Medium.",
+        "country": "Minsk, Belarus",
+        "photoUrl": "/images/people/alexey_buzin.jpg",
+        "shortBio": "Alexey is a passionate full-stack developer and trainer that is into cross-platform mobile tech. He always is looking forward to talk about various technologies, technical challenges and share his opinion about them.",
+        "bio": "Alexey is a passionate full-stack developer and trainer that is into cross-platform mobile tech. He always is looking forward to talk about various technologies, technical challenges and share his opinion about them. High chance that you can see him speaking or stalking in pretty much all developers communities in Riga, Latvia (JUG.lv, LDN, Devclub, LatCraft etc). In addition he is also an organizer of Google Developers Group Riga (gdgriga.lv) that hosts monthly meetups about IT and tech.",
         "tags": [
             "Web",
             "Angular",
@@ -197,24 +197,24 @@
             {
                 "icon": "twitter",
                 "name": "Twitter",
-                "link": "https://twitter.com/gerardsans"
+                "link": "https://twitter.com/AlexeyBuzdin"
             },
             {
-                "icon": "website",
-                "name": "Website",
-                "link": "https://medium.com/@gerard.sans"
+                "icon": "gplus",
+                "name": "Google+",
+                "link": "https://plus.google.com/+AlexeyBuzdin"
             }
         ]
     },
     "7": {
         "id": 7,
         "featured": true,
-        "name": "Jozef Vodicka",
-        "title": "Developer Relations Program Manager",
-        "company": "Google",
+        "name": "Sergey Kibish",
+        "title": "Software Developer",
+        "company": "Transact Pro",
         "companyLogo": "/images/logos/gdg-lviv.svg",
-        "country": "Prague, Czech Republic",
-        "photoUrl": "/images/people/jozef_vodicka.jpg",
+        "country": "Riga, Latvia",
+        "photoUrl": "/images/people/sergey_kibish.jpg",
         "shortBio": "TEDx speaker, Slovak Forbes 30-under-30, IT auditor for AIESEC International & TOP 5 Student Entrepreneurs in Slovakia.",
         "bio": "Right now he is a passionate Googler helping developers and companies in South CEE to be more successful and profitable.\n\nHe co-founded and lead several StartUPs such as Venzeo.com, TrashOut.ngo, Matura.sk and Stuzkova.EU.\n\nHe is TEDx speaker, Slovak Forbes 30-under-30, IT auditor for AIESEC International & TOP 5 Student Entrepreneurs in Slovakia. He gets things done.",
         "tags": [
@@ -250,12 +250,12 @@
     "8": {
         "id": 8,
         "featured": true,
-        "name": "Mateusz Herych",
-        "title": "Android Tech Lead",
-        "company": "IG",
+        "name": "Tomáš Kypta",
+        "title": "Software Architect",
+        "company": "Avast",
         "companyLogo": "/images/logos/gdg-lviv.svg",
         "country": "Krakow, Poland",
-        "photoUrl": "/images/people/mateusz_herych.jpg",
+        "photoUrl": "/images/people/tomas_kypta.jpg",
         "shortBio": "3x rockstar of DevFest Ukraine stage. Android GDE. Co-organizer of GDG Krakow.",
         "bio": "Mateusz lives in Krakow, holds a membership in the Google Developer Expert program for Android. Works as an Android Tech Lead at IG. Co-organizer of GDG Krakow community meetups. Fresh dad of twins. For the third time at DevFest Ukraine.",
         "tags": [
