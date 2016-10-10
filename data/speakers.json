@@ -8,12 +8,10 @@
         "companyLogo": "/images/logos/gdg-lviv.svg",
         "country": "Warsaw, Poland",
         "photoUrl": "/images/people/alex_petrovskiy.jpg",
-        "shortBio": "Became a mobile developer after long run as a backend developer.",
+        "shortBio": "Became a mobile developer after long run as a backend developer. Because of age, holding senior positions from the day one as an Android programmer.",
         "bio": "Became a mobile developer after long run as a backend developer. Because of age, holding senior positions from the day one as an Android programmer. Serial hackathon winner, or at least contender ;-)",
         "tags": [
-            "Cloud",
-            "Compute Engine",
-            "gRPC"
+            "Android"
         ],
         "badges": [
 
@@ -40,7 +38,7 @@
         "companyLogo": "/images/logos/gdg-lviv.svg",
         "country": "Tel Aviv, Israel",
         "photoUrl": "/images/people/yonatan_levin.jpg",
-        "shortBio": "Born with the spirit of an entrepreneur, Yonatan loves to create, build and just do fun stuff in...",
+        "shortBio": "Born with the spirit of an entrepreneur, Yonatan loves to create, build and just do fun stuff in the technology field. Yonatan is one of the top Israeli mobile developers, who is also a part of an elite worldwide group of Google Developer Experts.",
         "bio": "Born with the spirit of an entrepreneur, Yonatan loves to create, build and just do fun stuff in the technology field.\nYonatan is one of the top Israeli mobile developers, who is also a part of an elite worldwide group of Google Developer Experts.\nHis primary expertise is Android and Mobile UX, but is also friendly to backend technologies and people in general :)\nFounded and led 3 startups in the past, recently received funding for his new startup which is on the make.\nCurrently, Yonatan is taking a part of the startup Gett - the largest on-demand transportation, delivery, and logistics company which already raised more than $500M",
         "tags": [
             "Android",
@@ -82,8 +80,8 @@
         "companyLogo": "/images/logos/gdg-lviv.svg",
         "country": "Minsk, Belarus",
         "photoUrl": "/images/people/dmitriy_groschovskiy.jpg",
-        "shortBio": "UX enthusiast with passion for the IoT. Board member of the Usability & User Experience committee at the federal association BITKOM.",
-        "bio": "Sascha Wolter is a professional developer and user experience enthusiast with passion for the Internet of Things in all flavors. He also works as a consultant, trainer, lecturer, keynote-speaker, and author who focusses on understanding, innovation and value. Sascha is the founder of the User Group flashforum.de with more than 100,000 members, and as such he is committed to the interests of the user. After organizing internationally renowned events like beyond tellerrand from 2001 to 2011, he is now board member of the Usability & User Experience committee at the federal association BITKOM. When he is not tinkering with new soft- and hardware for Deutsche Telekom AG \u2013 Connected Home, he likes discovering the world together with his kids in an odd way.",
+        "shortBio": "One of the first developers have become used Firebase technology. ",
+        "bio": "",
         "tags": [
             "Cloud",
             "Firebase",
@@ -126,8 +124,8 @@
         "companyLogo": "/images/logos/gdg-lviv.svg",
         "country": "Moscow, Russian Federation",
         "photoUrl": "/images/people/alex_belotserkovskiy.jpg",
-        "shortBio": "Rustem is working at Google for last 8 years. Was in Search and Android teams. Big fan of perform...",
-        "bio": "Rustem is working at Google for last 8 years. Was in Search and Android teams. Big fan of performance optimizations.",
+        "shortBio": "",
+        "bio": "",
         "tags": [
             "Cloud",
             "IoT",
@@ -153,7 +151,7 @@
         "companyLogo": "/images/logos/gdg-lviv.svg",
         "country": "Minsk, Belarus",
         "photoUrl": "/images/people/sergey_popkov.jpg",
-        "shortBio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app wa...",
+        "shortBio": "Био - с 2007 по 2014 работал в компании СООО \"Системные технологии\" сначала WEB-разработчиком, а с появлением ОС Android - главным Android специалистом в отделе мобильных разработок . С 2014 работаю в компании Cactussoft на должности Android Tech Lead.",
         "bio": "Био - с 2007 по 2014 работал в компании СООО \"Системные технологии\" сначала WEB-разработчиком, а с появлением ОС Android - главным Android специалистом в отделе мобильных разработок . С 2014 работаю в компании Cactussoft на должности Android Tech Lead.",
         "tags": [
             "Android",
@@ -174,10 +172,10 @@
         "id": 6,
         "featured": true,
         "name": "Alexey Buzdin",
-        "title": "Software Engineer",
-        "company": "AngularZone",
+        "title": "Tech Guy",
+        "company": "Citadele",
         "companyLogo": "/images/logos/gdg-lviv.svg",
-        "country": "Minsk, Belarus",
+        "country": "Riga, Latvia",
         "photoUrl": "/images/people/alexey_buzin.jpg",
         "shortBio": "Alexey is a passionate full-stack developer and trainer that is into cross-platform mobile tech. He always is looking forward to talk about various technologies, technical challenges and share his opinion about them.",
         "bio": "Alexey is a passionate full-stack developer and trainer that is into cross-platform mobile tech. He always is looking forward to talk about various technologies, technical challenges and share his opinion about them. High chance that you can see him speaking or stalking in pretty much all developers communities in Riga, Latvia (JUG.lv, LDN, Devclub, LatCraft etc). In addition he is also an organizer of Google Developers Group Riga (gdgriga.lv) that hosts monthly meetups about IT and tech.",
@@ -187,11 +185,6 @@
             "Progressive Web Apps"
         ],
         "badges": [
-            {
-                "name": "GDE",
-                "description": "Angular Google Developer Expert",
-                "link": "https://developers.google.com/experts/people/gerard-sans.html"
-            }
         ],
         "socials": [
             {
