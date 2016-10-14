@@ -8,7 +8,7 @@
         "tabBarColor": "#fff",
         "video": {
         },
-        "hideLogo": true,
+        "hideLogo": false,
         "minHeight": "360px"
       }
     },
@@ -106,17 +106,17 @@
         },
         {
           "text": "df-13",
-          "url": "http://gdg-devfest-ua.appspot.com/",
+          "url": "https://devfest.by",
           "newTab": true
         },
         {
           "text": "df-14",
-          "url": "http://devfest.gdg.org.ua/2014/",
+          "url": "https://devfest.by",
           "newTab": true
         },
         {
           "text": "df-15",
-          "url": "http://devfest.gdg.org.ua/2015/",
+          "url": "https://devfest.by",
           "newTab": true
         }
       ]
@@ -150,8 +150,8 @@
     "elements": [
       {
         "name": "student-ticket",
-        "price": 500,
-        "currency": "₴",
+        "price": 30,
+        "currency": "BYN",
         "starts": "student-ticket-starts",
         "ends": "student-ticket-ends",
         "info": "student-ticket-info",
@@ -159,8 +159,8 @@
       },
       {
         "name": "early-ticket",
-        "price": 750,
-        "currency": "₴",
+        "price": 75,
+        "currency": "BYN",
         "starts": "early-ticket-starts",
         "ends": "early-ticket-ends",
         "info": "early-ticket-info",
@@ -168,8 +168,8 @@
       },
       {
         "name": "lazy-ticket",
-        "price": 1000,
-        "currency": "₴",
+        "price": 100,
+        "currency": "BYN",
         "starts": "lazy-ticket-starts",
         "ends": "lazy-ticket-ends",
         "soldOut": false
@@ -180,7 +180,7 @@
   "teamPageText": "team-page-text",
   "statistics": [
     {
-      "counter": 600,
+      "counter": 300,
       "caption": "attendees"
     },
     {
@@ -200,23 +200,18 @@
   "social": [
     {
       "name": "twitter",
-      "nickname": "GDGLviv",
-      "url": "https://twitter.com/gdglviv"
+      "nickname": "GDGMinsk",
+      "url": "https://twitter.com/gdgminsk"
     },
     {
       "name": "gplus",
       "nickname": "102444623953913144164",
-      "url": "https://plus.google.com/102444623953913144164"
+      "url": "https://plus.google.com/113201184286137496581"
     },
     {
       "name": "facebook",
       "nickname": "GDGLviv",
-      "url": "https://www.facebook.com/GDGLviv"
-    },
-    {
-      "name": "linkedin",
-      "nickname": "google-developers-group-lviv",
-      "url": "https://www.linkedin.com/company/google-developers-group-lviv"
+      "url": "https://www.facebook.com/groups/gdgminsk"
     }
   ],
   "tweetsSource": "/data/tweets.json",
@@ -232,7 +227,7 @@
   },
   "location": {
     "apiKey": "",
-    "link": "https://www.facebook.com/expopivdennij",
+    "link": "https://www.facebook.com/eventspace.by",
     "pointer": {
       "latitude": 53.8904068,
       "longitude": 27.5682085,

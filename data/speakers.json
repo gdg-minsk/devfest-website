@@ -5,7 +5,7 @@
         "name": "Aleksander Piotrowski",
         "title": "Software Engineer",
         "company": "Applause",
-        "companyLogo": "/images/logos/gdg-lviv.svg",
+        "companyLogo": "/images/logos/applause.jpg",
         "country": "Warsaw, Poland",
         "photoUrl": "/images/people/alex_petrovskiy.jpg",
         "shortBio": "Became a mobile developer after long run as a backend developer. Because of age, holding senior positions from the day one as an Android programmer.",
@@ -35,7 +35,7 @@
         "name": "Yonatan Levin",
         "title": "Android Evangelist & Developer",
         "company": "Gett",
-        "companyLogo": "/images/logos/gdg-lviv.svg",
+        "companyLogo": "/images/logos/gett_taxi.png",
         "country": "Tel Aviv, Israel",
         "photoUrl": "/images/people/yonatan_levin.jpg",
         "shortBio": "Born with the spirit of an entrepreneur, Yonatan loves to create, build and just do fun stuff in the technology field. Yonatan is one of the top Israeli mobile developers, who is also a part of an elite worldwide group of Google Developer Experts.",
@@ -75,12 +75,12 @@
         "id": 3,
         "featured": true,
         "name": "Dmitriy Groschovskiy",
-        "title": "Senior Developer Operations",
+        "title": "Site Reliability Engineer",
         "company": "Firebase",
-        "companyLogo": "/images/logos/gdg-lviv.svg",
+        "companyLogo": "/images/logos/gdg-minsk.png",
         "country": "Minsk, Belarus",
         "photoUrl": "/images/people/dmitriy_groschovskiy.jpg",
-        "shortBio": "One of the first developers have become used Firebase technology. ",
+        "shortBio": "One of the first developers have become used Firebase technology. Make contribution in the Open Source Google Cloud Platform projects. In recent engaged in research Google Project Brillo and Weave. One of the leads at Google Developers Group Minsk.",
         "bio": "",
         "tags": [
             "Cloud",
@@ -90,7 +90,11 @@
             "CI/CD"
         ],
         "badges": [
-
+            {
+                "name": "GDG",
+                "description": "Google Developers Group Lead",
+                "link": "http://chats.viber.com/gdgminsk"
+            }
         ],
         "socials": [
             {
@@ -121,7 +125,7 @@
         "name": "Alexandr Belotserkovskiy",
         "title": "Developer Evangelist",
         "company": "Microsoft",
-        "companyLogo": "/images/logos/gdg-lviv.svg",
+        "companyLogo": "/images/logos/microsoft.png",
         "country": "Moscow, Russian Federation",
         "photoUrl": "/images/people/alex_belotserkovskiy.jpg",
         "shortBio": "",
@@ -148,7 +152,7 @@
         "name": "Sergey Popkov",
         "title": "Android Developer",
         "company": "CactusSoft",
-        "companyLogo": "/images/logos/gdg-lviv.svg",
+        "companyLogo": "/images/logos/cactus_soft.jpg",
         "country": "Minsk, Belarus",
         "photoUrl": "/images/people/sergey_popkov.jpg",
         "shortBio": "Био - с 2007 по 2014 работал в компании СООО \"Системные технологии\" сначала WEB-разработчиком, а с появлением ОС Android - главным Android специалистом в отделе мобильных разработок . С 2014 работаю в компании Cactussoft на должности Android Tech Lead.",
@@ -174,7 +178,7 @@
         "name": "Alexey Buzdin",
         "title": "Tech Guy",
         "company": "Citadele",
-        "companyLogo": "/images/logos/gdg-lviv.svg",
+        "companyLogo": "/images/logos/citadele.png",
         "country": "Riga, Latvia",
         "photoUrl": "/images/people/alexey_buzin.jpg",
         "shortBio": "Alexey is a passionate full-stack developer and trainer that is into cross-platform mobile tech. He always is looking forward to talk about various technologies, technical challenges and share his opinion about them.",
@@ -205,7 +209,7 @@
         "name": "Sergey Kibish",
         "title": "Software Developer",
         "company": "Transact Pro",
-        "companyLogo": "/images/logos/gdg-lviv.svg",
+        "companyLogo": "/images/logos/gdg-riga.png",
         "country": "Riga, Latvia",
         "photoUrl": "/images/people/sergey_kibish.jpg",
         "shortBio": "TEDx speaker, Slovak Forbes 30-under-30, IT auditor for AIESEC International & TOP 5 Student Entrepreneurs in Slovakia.",
