@@ -25,7 +25,7 @@
     },
     "136": {
         "id": 136,
-        "title": "GDG DevFest Ukraine 2016 Opening",
+        "title": "Google DevFest Belarus 2016 Opening",
         "description": "Official start of the conference. Greetings from the organizers, sponsors and partners.",
         "language": "English",
         "image": "/images/backgrounds/opening.jpg"
@@ -225,15 +225,15 @@
     },
     "118": {
         "id": 118,
-        "title": "Kotlin + Android",
-        "description": "TBD",
+        "title": "Google Cloud Platform for SRE",
+        "description": "Google Cloud Platform for Site Reliability Engineers",
         "speakers": [
-            16
+            3
         ],
         "language": "English",
         "complexity": "Intermediate",
         "tags": [
-            "Android"
+            "Cloud"
         ]
     },
     "117": {

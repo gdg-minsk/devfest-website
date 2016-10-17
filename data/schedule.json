@@ -1,12 +1,10 @@
 [{
-    "date": "2016-09-09",
-    "dateReadable": "September 9",
+    "date": "2016-11-25",
+    "dateReadable": "November 25",
     "tracks": [{
-        "title": "Expo hall"
+        "title": "Master Hall"
     }, {
-        "title": "Conference hall"
-    }, {
-        "title": "Workshops hall"
+        "title": "Unicorn Hall"
     }],
     "timeslots": [{
         "startTime": "09:00",
@@ -31,16 +29,14 @@
         "endTime": "11:40",
         "sessions": [
             [103],
-            [120],
-            [109]
+            [120]
         ]
     }, {
         "startTime": "11:50",
         "endTime": "12:30",
         "sessions": [
             [129],
-            [116],
-            [109]
+            [116]
         ]
     }, {
         "startTime": "12:30",
@@ -53,16 +49,14 @@
         "endTime": "14:40",
         "sessions": [
             [101],
-            [118],
-            [107]
+            [118]
         ]
     }, {
         "startTime": "14:50",
         "endTime": "15:30",
         "sessions": [
             [140],
-            [126],
-            [107]
+            [126]
         ]
     }, {
         "startTime": "15:30",
@@ -75,24 +69,21 @@
         "endTime": "16:40",
         "sessions": [
             [105],
-            [127],
-            [119]
+            [127]
         ]
     }, {
         "startTime": "16:50",
         "endTime": "17:30",
         "sessions": [
             [112],
-            [111],
-            [119]
+            [111]
         ]
     }, {
         "startTime": "17:40",
         "endTime": "18:20",
         "sessions": [
             [106],
-            [125],
-            [119]
+            [125]
         ]
     }, {
         "startTime": "18:30",
@@ -102,14 +93,12 @@
         ]
     }]
 }, {
-    "date": "2016-09-10",
-    "dateReadable": "September 10",
+    "date": "2016-11-26",
+    "dateReadable": "November 26",
     "tracks": [{
-        "title": "Expo hall"
+        "title": "Master Hall"
     }, {
-        "title": "Conference hall"
-    }, {
-        "title": "Workshops hall"
+        "title": "Unicorn Hall"
     }],
     "timeslots": [{
         "startTime": "09:30",
@@ -122,24 +111,21 @@
         "endTime": "10:50",
         "sessions": [
             [114],
-            [117],
-            [121]
+            [117]
         ]
     }, {
         "startTime": "11:00",
         "endTime": "11:40",
         "sessions": [
             [122],
-            [113],
-            [121]
+            [113]
         ]
     }, {
         "startTime": "11:50",
         "endTime": "12:30",
         "sessions": [
             [104],
-            [124],
-            [121]
+            [124]
         ]
     }, {
         "startTime": "12:30",
@@ -152,16 +138,14 @@
         "endTime": "14:40",
         "sessions": [
             [108],
-            [128],
-            [102]
+            [128]
         ]
     }, {
         "startTime": "14:50",
         "endTime": "15:30",
         "sessions": [
             [110],
-            [123],
-            [102]
+            [123]
         ]
     }, {
         "startTime": "15:30",
@@ -174,16 +158,14 @@
         "endTime": "16:40",
         "sessions": [
             [131],
-            [140],
-            [130]
+            [140]
         ]
     }, {
         "startTime": "16:50",
         "endTime": "17:30",
         "sessions": [
             [115],
-            [140],
-            [130]
+            [140]
         ]
     }]
 }]
