@@ -6,7 +6,7 @@
     "primaryColor": "#5a7785",
     "secondaryColor": "#455a64",
     "image": "/images/posts/summary.jpg",
-    "brief": "GDG DevFest Belarus 2015 is now over. It was a great success. We are happy to share with you some facts, emotions and, of course, photos from the biggest Google Developers Conference in Ukraine!"
+    "brief": "GDG DevFest Belarus 2015 is now over. It was a great success. We are happy to share with you some facts, emotions and, of course, photos from the biggest Google Developers Conference in Belarus!"
   },
   {
     "id": "devfest-2016-announced",
@@ -15,7 +15,7 @@
     "primaryColor": "#00BCD4",
     "secondaryColor": "#00BCD4",
     "image": "/images/posts/announce.jpg",
-    "brief": "Ukrainian Google Developers Groups are proud to announce the fifth annual GDG DevFest 2016 which is the biggest Google related event in Belarus carefully crafted by GDG community! The event will take place on **9-10th of September** in **Lviv**."
+    "brief": "Belarus Google Developers Groups are proud to announce the third annual GDG DevFest 2016 which is the biggest Google related event in Belarus carefully crafted by GDG community! The event will take place on **25-26th of November** in **Minsk**."
   },
   {
     "id": "c4p-time",
@@ -24,6 +24,6 @@
     "primaryColor": "#3F51B5",
     "secondaryColor": "#3F51B5",
     "image": "/images/posts/c4p-is-open.jpg",
-    "brief": "GDG DevFest Belarus 2016 announced! The 5th edition of the biggest conference about Google technologies in Belarus will take on **September 9-10** in an ancient city of Lviv. That means that it is time to open [call for talk submissions](http://bit.ly/df16-c4p)."
+    "brief": "GDG DevFest Belarus 2016 announced! The 3th edition of the biggest conference about Google technologies in Belarus will take on **November 25-26** in an beautiful city of Minsk."
   }
 ]
