@@ -144,40 +144,35 @@
     "title": "Program Committee",
     "members": [
       {
-        "name": "Ihor Dvoretskyi",
-        "photoUrl": "/images/people/ihor_dvoretskyi.jpg",
+        "name": "Dzmitry Hrashouski",
+        "photoUrl": "/images/people/dmitriy_groschovskiy.jpg",
         "socials": [
           {
+            "icon": "gplus",
+            "link": "https://plus.google.com/+DmitriyGroschovskiy",
+            "name": "Google+"
+          },
+          {
             "icon": "facebook",
-            "link": "https://www.facebook.com/idvoretskyi",
+            "link": "https://www.facebook.com/groschovskii",
             "name": "Facebook"
           },
           {
             "icon": "twitter",
-            "link": "https://twitter.com/idvoretskyi",
+            "link": "https://twitter.com/groschovskii",
             "name": "Twitter"
           }
         ],
-        "title": "Cloud stream"
+        "title": "Cloud Stream"
       },
       {
-        "name": "Dmytro Danylyk",
-        "photoUrl": "/images/people/dmytro_danylyk.jpg",
+        "name": "Pavel Shchahelski",
+        "photoUrl": "/images/people/pavel_shahelsky.jpg",
         "socials": [
           {
-            "icon": "gplus",
-            "link": "https://plus.google.com/+DmytroDanylyk",
-            "name": "Google+"
-          },
-          {
-            "icon": "twitter",
-            "link": "https://twitter.com/dmytrodanylyk",
-            "name": "Twitter"
-          },
-          {
-            "icon": "website",
-            "link": "http://www.dmytrodanylyk.com/#/about",
-            "name": "Website"
+            "icon": "facebook",
+            "link": "https://www.facebook.com/pavel.shchahelski",
+            "name": "Facebook"
           }
         ],
         "title": "Android Stream"

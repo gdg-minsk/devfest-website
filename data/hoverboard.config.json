@@ -164,7 +164,7 @@
         "starts": "early-ticket-starts",
         "ends": "early-ticket-ends",
         "info": "early-ticket-info",
-        "soldOut": true
+        "soldOut": false
       },
       {
         "name": "lazy-ticket",
@@ -192,7 +192,7 @@
       "caption": "sessions"
     },
     {
-      "counter": 3,
+      "counter": 2,
       "caption": "tracks"
     }
   ],
@@ -210,7 +210,7 @@
     },
     {
       "name": "facebook",
-      "nickname": "GDGLviv",
+      "nickname": "GDGMinsk",
       "url": "https://www.facebook.com/groups/gdgminsk"
     }
   ],
