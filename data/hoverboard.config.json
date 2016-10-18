@@ -150,7 +150,7 @@
     "elements": [
       {
         "name": "student-ticket",
-        "price": 30,
+        "price": 55,
         "currency": "BYN",
         "starts": "student-ticket-starts",
         "ends": "student-ticket-ends",
@@ -159,7 +159,7 @@
       },
       {
         "name": "early-ticket",
-        "price": 75,
+        "price": 79,
         "currency": "BYN",
         "starts": "early-ticket-starts",
         "ends": "early-ticket-ends",
@@ -168,7 +168,7 @@
       },
       {
         "name": "lazy-ticket",
-        "price": 100,
+        "price": 125,
         "currency": "BYN",
         "starts": "lazy-ticket-starts",
         "ends": "lazy-ticket-ends",
