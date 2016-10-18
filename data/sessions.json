@@ -108,12 +108,12 @@
     },
     "127": {
         "id": 127,
-        "title": "ExoPlayer: Media playback without pain (almost...)",
-        "description": "If you have any experience with Android Media Player, you definitely know how hard it is to prepare it and do not lose your mind. ExoPlayer - is an alternative, which can help you deal with media with much less pain. So lets discuss if it really a \"silver bullet\" or yet another State Machine hell.",
+        "title": "DevOps-stack Microsoft for Android",
+        "description": "TBD",
         "speakers": [
-            24
+            4
         ],
-        "language": "Ukrainian",
+        "language": "Russian",
         "complexity": "Intermediate",
         "tags": [
             "Android"
@@ -121,10 +121,10 @@
     },
     "126": {
         "id": 126,
-        "title": "Android hacking for dummies: \u2018if\u2019 operator demolytion",
-        "description": "Imagine the world where you can get any application, look into its code (even if it is not open sourced) and modify any conditional operator in any way you like. Welcome, you are in the Android applications world! Let's discover how anyone can decompile your app and, for example, hack your 'if' operators. For the beginning, we will play a role of a script kiddie and try to hack some simple app. After this, we will pretend security-conscious Android developers and try to think how we can protect ourselves.",
+        "title": "ExoPlayer: Media playback without pain!",
+        "description": "If you have any experience with Android Media Player, you definitely know how hard it is to prepare it and do not lose your mind. ExoPlayer - is an alternative, which can help you deal with media with much less pain. So lets discuss if it really a \"silver bullet\" or yet another State Machine hell.",
         "speakers": [
-            23
+            9
         ],
         "language": "English",
         "complexity": "Intermediate",
@@ -134,15 +134,15 @@
     },
     "125": {
         "id": 125,
-        "title": "Kubernetes in a real world",
+        "title": "DevOps-stack Microsoft for Android",
         "description": "TBD",
         "speakers": [
-            22
+            4
         ],
-        "language": "English",
+        "language": "Russian",
         "complexity": "Intermediate",
         "tags": [
-            "Cloud"
+            "Android"
         ]
     },
     "124": {
@@ -316,12 +316,12 @@
     },
     "111": {
         "id": 111,
-        "title": "Dagger 2: dependency Injection Android way",
-        "description": "It's beauty, it's handy, it's fast, it's easy - all about Dagger 2",
+        "title": "DevOps-stack Microsoft for Android",
+        "description": "TBD",
         "speakers": [
-            9
+            10
         ],
-        "language": "English",
+        "language": "Russian",
         "complexity": "Intermediate",
         "tags": [
             "Android"
