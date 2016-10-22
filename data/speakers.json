@@ -2,12 +2,12 @@
     "1": {
         "id": 1,
         "featured": true,
-        "name": "Aleksander Piotrowski",
+        "name": "Free Slot",
         "title": "Software Engineer",
-        "company": "Applause",
-        "companyLogo": "/images/logos/applause.jpg",
-        "country": "Warsaw, Poland",
-        "photoUrl": "/images/people/alex_petrovskiy.jpg",
+        "company": "Worlds",
+        "companyLogo": "/images/logos/free",
+        "country": "World",
+        "photoUrl": "/images/people/demo_user.jpg",
         "shortBio": "Became a mobile developer after long run as a backend developer. Because of age, holding senior positions from the day one as an Android programmer.",
         "bio": "Became a mobile developer after long run as a backend developer. Because of age, holding senior positions from the day one as an Android programmer. Serial hackathon winner, or at least contender ;-)",
         "tags": [
@@ -76,10 +76,10 @@
         "featured": true,
         "name": "Dmitriy Groschovskiy",
         "title": "Site Reliability Engineer",
-        "company": "Firebase",
+        "company": "Google Developers Group Minsk",
         "companyLogo": "/images/logos/gdg-minsk.png",
         "country": "Minsk, Belarus",
-        "photoUrl": "/images/people/dmitriy_groschovskiy.jpg",
+        "photoUrl": "/images/people/dmitriy_groschman.jpg",
         "shortBio": "One of the first developers have become used Firebase technology. Make contribution in the Open Source Google Cloud Platform projects. In recent engaged in research Google Project Brillo and Weave. One of the leads at Google Developers Group Minsk.",
         "bio": "",
         "tags": [
@@ -248,9 +248,9 @@
         "id": 8,
         "featured": true,
         "name": "Tomáš Kypta",
-        "title": "Software Architect",
+        "title": "Android Developer",
         "company": "Avast",
-        "companyLogo": "/images/logos/gdg-minsk.png",
+        "companyLogo": "/images/logos/avast_logo.png",
         "country": "Krakow, Poland",
         "photoUrl": "/images/people/tomas_kypta.jpg",
         "shortBio": "Tomas is an Android developer at Avast. He’s focusing on designing the architecture of Android applications, libraries and SDKs as well as pushing good coding and testing practices.",
@@ -262,32 +262,17 @@
             "Libraries"
         ],
         "badges": [
-            {
-                "name": "GDE",
-                "description": "Android Google Developer Expert",
-                "link": "https://developers.google.com/experts/img/user/108555637824110226040.png"
-            },
-            {
-                "name": "GDG",
-                "description": "Google Developers Group Krakow",
-                "link": "https://developers.google.com/groups/directory/"
-            }
         ],
         "socials": [
             {
                 "icon": "gplus",
                 "name": "Google+",
-                "link": "https://plus.google.com/+MateuszHerych"
+                "link": "https://plus.google.com/+Tom%C3%A1%C5%A1Kypta"
             },
             {
                 "icon": "twitter",
                 "name": "Twitter",
-                "link": "https://twitter.com/mherych"
-            },
-            {
-                "icon": "linkedin",
-                "name": "LinkedIn",
-                "link": "https://www.linkedin.com/in/herych"
+                "link": "https://twitter.com/TomasKypta"
             }
         ]
     },
@@ -297,7 +282,7 @@
         "name": "Anton Minashkin",
         "title": "Android Developer",
         "company": "EPAM Systems",
-        "companyLogo": "/images/logos/gdg-minsk.png",
+        "companyLogo": "/images/logos/epam.png",
         "country": "Kiev, Ukraine",
         "photoUrl": "/images/people/demo_user.jpg",
         "shortBio": "Android developer, currently works at EPAM. Have experience in both server and mobile side development. All my free time I spend on the endless search of silver bullets, perfect architectures and holy wars.",
@@ -345,12 +330,12 @@
     "11": {
         "id": 11,
         "featured": false,
-        "name": "Free Slot",
-        "title": "Founder",
-        "company": "Apeser",
-        "companyLogo": "/images/logos/gdg-minsk.png",
-        "country": "World",
-        "photoUrl": "/images/people/demo_user.jpg",
+        "name": "Amanda Waite",
+        "title": "Senior Staff Technologies Evangelist",
+        "company": "Google",
+        "companyLogo": "/images/logos/google.svg",
+        "country": "London, UK",
+        "photoUrl": "/images/people/mandy_waite.jpg",
         "shortBio": "Founder and co-organiser of GDG Basel. Worked in Defence & Aeronautics, Finance & Consulting industries.",
         "bio": "Jean-Baptiste Clion (AKA JB) is a senior cloud engineer working with Google Technologies since 2007.  He is the founder and co-organiser of GDG Basel, Switzerland. Jean-Baptiste worked in various industries such as Defence & Aeronautics, Finance & Consulting. In his last position, JB was Google Practice Lead at Capgemini Switzerland, he is now co-founding a startup dedicated to Progressive Web Apps solutions relying on cloud technologies.",
         "tags": [
@@ -433,8 +418,8 @@
         "companyLogo": "/images/logos/gdg-minsk.png",
         "country": "World",
         "photoUrl": "/images/people/demo_user.jpg",
-        "shortBio": "Became a mobile developer after long run as a backend developer. Because of age, holding senior p...",
-        "bio": "Became a mobile developer after long run as a backend developer. Because of age, holding senior positions from the day one as an Android programmer. Serial hackathon winner, or at least contender ;-)",
+        "shortBio": ".",
+        "bio": " ;-)",
         "tags": [
             "Android",
             "Android N"
@@ -474,8 +459,8 @@
         "companyLogo": "/images/logos/gdg-minsk.png",
         "country": "World",
         "photoUrl": "/images/people/demo_user.jpg",
-        "shortBio": "Angular JS committer. Founder of Dutch Angular JS Community, co-organizer of NG-NL.",
-        "bio": "Carmen is a front-end engineer and a #1 fan of dev communities. She loves Angular but has since recently developed feelings for Polymer too. She strongly believes that adding at least one ASCII smiley in your emails will make the world a better place and hopes to one day make a difference for the web with the code she writes. If she had super powers, she would smiley all the things.",
+        "shortBio": ".",
+        "bio": ".",
         "tags": [
             "Web",
             "AngularJS2",
@@ -507,8 +492,8 @@
         "companyLogo": "/images/logos/gdg-minsk.png",
         "country": "World",
         "photoUrl": "/images/people/demo_user.jpg",
-        "shortBio": "Data scientist at one of the biggest fashion communities, STYLIGHT. Data analysis and visualisati...",
-        "bio": "Data scientist at one of the biggest fashion communities, STYLIGHT. Data analysis and visualisation hobbyist, working on problems not only in working time, but in free time for fun and personal data visualisations.\n\nSpeaker at different conferences: Berlin Buzzwords 2014, ApacheCon Europe 2014, Puppet Camp London 2015, Munich Developer Camp, Berlin Buzzwords 2015, Tableau Conference on Tour - Berlin 2015, Budapest BI forum 2015, CrunchConf 2015, FOSDEM 2016, PyData Amsterdam 2016",
+        "shortBio": ".",
+        "bio": ".",
         "tags": [
             "Cloud",
             "Big Data",
@@ -534,8 +519,8 @@
         "companyLogo": "/images/logos/gdg-minsk.png",
         "country": "World",
         "photoUrl": "/images/people/demo_user.jpg",
-        "shortBio": "GDG Prague organizer. Android and Dart enthusiast. Co-founder of a company called Juicymo.",
-        "bio": "GDE (Google Developer Expert) for Dart. Jana is a passionate developer and modern web and mobile technology evangelist. She is an event organiser for GDG Prague, where she arranges events for developers including public lectures, code labs and hackathons \u2013 covering a wide range of subjects including technologies Dart or Android. She loves to help other developers and spread the knowledge about these technologies. \n\nJana co-founded a company called Juicymo, where she works on juicy apps and products and teaches at Unicorn College.",
+        "shortBio": ".",
+        "bio": ".",
         "tags": [
             "Android",
             "Testing",
@@ -586,8 +571,8 @@
         "companyLogo": "/images/logos/gdg-minsk.png",
         "country": "World",
         "photoUrl": "/images/people/demo_user.jpg",
-        "shortBio": "First Android GDE in Ukraine. Frequent speaker on tech conferences.",
-        "bio": "Dmytro is a developer, writer, speaker. He live in Lviv - a quaint and beautiful city. He is passionate about android and flat design. Currently Dmytro works for a startup Timee where he develop Android application and he love what he do.",
+        "shortBio": ".",
+        "bio": ".",
         "tags": [
             "Android",
             "Realm",
@@ -639,8 +624,8 @@
         "companyLogo": "/images/logos/gdg-minsk.png",
         "country": "World",
         "photoUrl": "/images/people/demo_user.jpg",
-        "shortBio": "Founder and CEO of Step Up Labs. Android GDE.",
-        "bio": "David is a Google Developer Expert for Android. He is a CEO now, but he still finds time for diving deep into Android architecture. He currently focuses on Firebase for Android. He loves open-source and gadgets like Android Wear or Android TV. He is the core organiser of GDG Prague events.",
+        "shortBio": ".",
+        "bio": ".",
         "tags": [
             "Android",
             "Android Wear",
@@ -686,8 +671,8 @@
         "companyLogo": "/images/logos/gdg-minsk.png",
         "country": "World",
         "photoUrl": "/images/people/demo_user.jpg",
-        "shortBio": "Jakub is a front-end engineer at Shipito interested in modern web frameworks, libraries and tools...",
-        "bio": "Jakub is a front-end engineer at Shipito interested in modern web frameworks, libraries and tools. Jakub is also a member of GDG Prague and GDG \u010cVUT in the Czech republic.",
+        "shortBio": ".",
+        "bio": ".",
         "tags": [
             "Web",
             "AngularJS",
@@ -725,8 +710,8 @@
         "companyLogo": "/images/logos/gdg-minsk.png",
         "country": "World",
         "photoUrl": "/images/people/demo_user.jpg",
-        "shortBio": "Sergiy is an android developer that has experience from building apps from scratch to developing...",
-        "bio": "Sergiy is an android developer that has experience from building apps from scratch to developing android based sdks and libraries for other applications. He has more than 10 applications successfully published on Google Play. Former GDG chapter lead in Nikolaev. Currently he is leading a team that builds broker software for 60+ different brokers.",
+        "shortBio": ".",
+        "bio": ".",
         "tags": [
             "Android",
             "CI/CD"
@@ -765,8 +750,8 @@
         "companyLogo": "/images/logos/gdg-minsk.png",
         "country": "World",
         "photoUrl": "/images/people/demo_user.jpg",
-        "shortBio": "Google Developer Expert on Cloud. Co-organizer of GDG Kyiv-Center.",
-        "bio": "Google Developer Expert on Cloud. Co-organizer of GDG Kyiv-Center.",
+        "shortBio": ".",
+        "bio": ".",
         "tags": [
             "Web",
             "AngularJS",
@@ -807,8 +792,8 @@
         "companyLogo": "/images/logos/gdg-minsk.png",
         "country": "World",
         "photoUrl": "/images/people/demo_user.jpg",
-        "shortBio": "Michael is a software engineer at Stanfy. He is KPI FICT Computer Science graduate and has 4+ yea...",
-        "bio": "Michael is a software engineer at Stanfy. He is KPI FICT Computer Science graduate and has 4+ years in Android development. Michael moderates KyivAndroidDevClub. Besides programming, he is a capoeira player.",
+        "shortBio": ".",
+        "bio": ".",
         "tags": [
             "Android",
             "Decompilation",
@@ -844,8 +829,8 @@
         "companyLogo": "/images/logos/gdg-minsk.png",
         "country": "World",
         "photoUrl": "/images/people/demo_user.jpg",
-        "shortBio": "OpenStack Foundation member, Kubernetes upstream contributor and OpenStack special interest group lead in Kubernetes Community.",
-        "bio": "Ihor is an Operations Engineer at Mirantis with a huge experience working in IT companies, where he was responsible for projects tightly bound to Cloud computing and Linux systems. He is deeply interested in the OpenStack cloud platform, other Cloud technologies, especially the Open Source projects.<br><br>Also, Ihor acts as the OpenStack Foundation member, Kubernetes upstream contributor, and OpenStack special interest group lead in Kubernetes Community, working intensely on the questions and abilities, related to the OpenStack and Kubernetes collaboration and integration.",
+        "shortBio": ".",
+        "bio": ".",
         "tags": [
             "Cloud",
             "OpenStack",
@@ -886,8 +871,8 @@
         "companyLogo": "/images/logos/gdg-minsk.png",
         "country": "World",
         "photoUrl": "/images/people/demo_user.jpg",
-        "shortBio": "Constantine is Senior Android Developer at DataArt and GDG Dnipro Organizer. He was speaker on De...",
-        "bio": "Constantine is Senior Android Developer at DataArt and GDG Dnipro Organizer. He was speaker on DevFest, multiple IT NonStop events and GDG meetups. Constantine is interested mainly in Android Wear platform, RxJava, best practices in applications Architecture, and sometimes cross-platform mobile development with Xamarin.",
+        "shortBio": ".",
+        "bio": ".",
         "tags": [
             "Android",
             "RxJava",
@@ -918,8 +903,8 @@
         "companyLogo": "/images/logos/gdg-minsk.png",
         "country": "World",
         "photoUrl": "/images/people/demo_user.jpg",
-        "shortBio": "Android developer, currently works at EPAM. Have experience in both server and mobile side develo...",
-        "bio": "Android developer, currently works at EPAM. Have experience in both server and mobile side development. All my free time I spend on the endless search of silver bullets, perfect architectures and holy wars.",
+        "shortBio": ".",
+        "bio": ".",
         "tags": [
             "Android",
             "Architecture",
@@ -955,8 +940,8 @@
         "companyLogo": "/images/logos/gdg-minsk.png",
         "country": "World",
         "photoUrl": "/images/people/demo_user.jpg",
-        "shortBio": "Roman is Founder and CEO at Yamert and a co-organizer of GDG Dnipropetrovsk. Roman is interesting...",
-        "bio": "Roman is Founder and CEO at Yamert and a co-organizer of GDG Dnipropetrovsk. Roman is interesting in software development for cutting edge technologies and devices like Google Glass and Android Wear.",
+        "shortBio": ".",
+        "bio": ".",
         "tags": [
             "Android",
             "Firebase",
@@ -996,8 +981,8 @@
         "companyLogo": "/images/logos/gdg-minsk.png",
         "country": "World",
         "photoUrl": "/images/people/demo_user.jpg",
-        "shortBio": "Caner is a GDE on UX/UI who is also a technology geek. Mainly focused on the design and marketing...",
-        "bio": "Caner is a GDE on UX/UI who is also a technology geek. Mainly focused on the design and marketing of mobile applications. Passionate about good UX, IoT and Android. He works at InnovationBox, a design agency in Istanbul making and creating apps that users love. Caner has been an organiser of GDG Istanbul since 2013, organising, participating, and speaking at events.",
+        "shortBio": ".",
+        "bio": ".",
         "tags": [
             "Android",
             "UX/UI",
