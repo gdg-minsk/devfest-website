@@ -70,7 +70,7 @@
       "permalink": "/team/"
     }
   ],
-  "url": "https://gdg-minsk.by/",
+  "url": "https://devfest.by/",
   "mailchimp": {
     "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
     "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
@@ -126,12 +126,12 @@
       "links": [
         {
           "text": "partnership-proposition",
-          "url": "http://bit.ly/df16-sponsor",
+          "url": "https://devfest.by/partners.pdf",
           "newTab": true
         },
         {
           "text": "media-kit",
-          "url": "http://bit.ly/df16-media",
+          "url": "https://devfest.by/media-kit.pdf",
           "newTab": true
         }
       ]
@@ -146,7 +146,7 @@
     ]
   },
   "tickets": {
-    "url": "http://2event.com/events/630032",
+    "url": "https://bezkassira.by/gdg_devfest_2016_1477241512-1842/",
     "elements": [
       {
         "name": "student-ticket",
@@ -188,7 +188,7 @@
       "caption": "days"
     },
     {
-      "counter": 30,
+      "counter": 15,
       "caption": "sessions"
     },
     {

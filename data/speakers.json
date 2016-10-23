@@ -2,14 +2,14 @@
     "1": {
         "id": 1,
         "featured": true,
-        "name": "Free Slot",
-        "title": "Software Engineer",
-        "company": "Worlds",
-        "companyLogo": "/images/logos/free",
-        "country": "World",
-        "photoUrl": "/images/people/demo_user.jpg",
-        "shortBio": "Became a mobile developer after long run as a backend developer. Because of age, holding senior positions from the day one as an Android programmer.",
-        "bio": "Became a mobile developer after long run as a backend developer. Because of age, holding senior positions from the day one as an Android programmer. Serial hackathon winner, or at least contender ;-)",
+        "name": "Joe Birch",
+        "title": "Android Engineer",
+        "company": "Buffer",
+        "companyLogo": "/images/logos/buffer.jpg",
+        "country": "Brighton, UK",
+        "photoUrl": "/images/people/joe_birch.jpg",
+        "shortBio": "Coming soon",
+        "bio": "Coming soon",
         "tags": [
             "Android"
         ],
@@ -20,12 +20,12 @@
             {
                 "icon": "gplus",
                 "name": "Google+",
-                "link": "https://plus.google.com/+AleksanderPiotrowski"
+                "link": "https://plus.google.com/+hitherejoebirch"
             },
             {
                 "icon": "twitter",
                 "name": "Twitter",
-                "link": "https://twitter.com/pelotasplus"
+                "link": "https://twitter.com/hitherejoe"
             }
         ]
     },
@@ -334,8 +334,8 @@
         "companyLogo": "/images/logos/google.svg",
         "country": "London, UK",
         "photoUrl": "/images/people/mandy_waite.jpg",
-        "shortBio": "Founder and co-organiser of GDG Basel. Worked in Defence & Aeronautics, Finance & Consulting industries.",
-        "bio": "Jean-Baptiste Clion (AKA JB) is a senior cloud engineer working with Google Technologies since 2007.  He is the founder and co-organiser of GDG Basel, Switzerland. Jean-Baptiste worked in various industries such as Defence & Aeronautics, Finance & Consulting. In his last position, JB was Google Practice Lead at Capgemini Switzerland, he is now co-founding a startup dedicated to Progressive Web Apps solutions relying on cloud technologies.",
+        "shortBio": "One of the most famous Googler with Google Cloud Platform skill.",
+        "bio": "One of the most famous Googler with Google Cloud Platform skill.",
         "tags": [
             "Cloud",
             "AppEngine",
@@ -378,6 +378,35 @@
                 "icon": "gplus",
                 "name": "Google+",
                 "link": "https://plus.google.com/+%D0%90%D1%80%D1%82%D1%91%D0%BC%D0%97%D0%B8%D0%BD%D0%BD%D0%B0%D1%82%D1%83%D0%BB%D0%BB%D0%B8%D0%BD"
+            }
+        ]
+    },
+    "13": {
+        "id": 13,
+        "featured": true,
+        "name": "Filip Procházka",
+        "title": "Web Developer",
+        "company": "Step Up Labs",
+        "companyLogo": "/images/logos/step_up_labs.png",
+        "country": "Pilsen, Czech Republic",
+        "photoUrl": "/images/people/filip_prochaz.jpg",
+        "shortBio": "I am frequent speaker at our GDG event's in Pilsen on several topics (Android, Firebase and Polymer), I had a talk on GCP Meetup in Prague and also was a mentor for one of largest hackathons in Czech Republic.",
+        "bio": "I am frequent speaker at our GDG event's in Pilsen on several topics (Android, Firebase and Polymer), I had a talk on GCP Meetup in Prague (http://www.meetup.com/GCP-meet-up/events/230838808/)  and also was a mentor for one of largest hackathons in Czech Republic - Czechhackathon http://www.czechhackathon.cz/",
+        "tags": [
+            "Cloud"
+        ],
+        "badges": [
+        ],
+        "socials": [
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/filipproch"
+            },
+            {
+                "icon": "linkedin",
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/filipproch"
             }
         ]
     }

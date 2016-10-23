@@ -69,10 +69,10 @@
     },
     "130": {
         "id": 130,
-        "title": "Designing an Android Wear Application",
-        "description": "Wearable devices are one of the most popular things nowadays. Specially, after the Apple Watch, we finally get the whole picture of the entire list of products and their features. Now, we can talk about how we can design a user experience for this type of devices.\nEvery platform has it's own design principles and approaches. But, in the core, they all need to follow same core rules. So, how we combine this core requirements with Google's Material Design and use them on an Android Wear device? Let's learn!",
+        "title": "AppClinic",
+        "description": "TBD",
         "speakers": [
-            26
+            2
         ],
         "language": "English",
         "complexity": "Intermediate",
@@ -238,15 +238,15 @@
     },
     "117": {
         "id": 117,
-        "title": "Building data pipelines: from simple to more advanced - hands-on experience",
-        "description": "Data is becoming one of the main decision-makers in an organisation. The more data we have the more challenges we face every day. Every decision we make will have long-term implications. In the talk we will go through different approaches to the data pipelines: from a simple in-house built, with comparison to open source solutions based on Apache stack(Apache Kafka, Apache Samza, Spark) and finally hosted auto-scaling solutions based Amazon(S3, Kinesis, Lambda, EMR) or Google(Pub/Sub, Dataflow, BigQuery). The talk covers the main aspects of data collecting processes altogether with further implications for data processing, highlighting appropriate solutions and architectures for the particular use-cases. ",
+        "title": "Building Progressive Web App with Polymer & Firebase",
+        "description": "Let's build a Progressive Web App together. You will see how you can bring native experience to your users and easily reach multiple platforms without developer overhead. Polymer makes building the app very fast thanks to it's utilization of Web Compoments. Firebase joins with removing the necessity to write your backend with database and API to interact with.",
         "speakers": [
-            15
+            13
         ],
         "language": "English",
-        "complexity": "Beginner",
+        "complexity": "Intermediate",
         "tags": [
-            "Cloud"
+            "Web"
         ]
     },
     "116": {
