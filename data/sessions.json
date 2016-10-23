@@ -32,7 +32,7 @@
     },
     "135": {
         "id": 135,
-        "title": "Morning coffee",
+        "title": "Morning coffee and registration",
         "description": "Coffeeeeeee!",
         "image": "/images/backgrounds/morning.jpg"
     },
@@ -56,15 +56,15 @@
     },
     "131": {
         "id": 131,
-        "title": "Deal with it: Android DataBinding explained",
-        "description": "In this talk, I will reveal you all the deepest secrets of using MVVM architecture in Android. \nWe will discuss on how to organise your application, views, models, how to retrieve data from the model requested from the view via data binding. \nLightweight Activities and Fragments, is it even possible? \n\nYes, and I will show you how to achieve this with MVVM and DataBinding!",
+        "title": "Docker in Android development",
+        "description": "",
         "speakers": [
-            27
+            12
         ],
         "language": "English",
         "complexity": "Intermediate",
         "tags": [
-            "Android"
+            "Cloud"
         ]
     },
     "130": {
@@ -173,10 +173,10 @@
     },
     "122": {
         "id": 122,
-        "title": "Firebase + Kotlin + RxJava + MVP: Practical Tips",
-        "description": "I would like to talk about architecture of our Settle Up app. It's all based on new Firebase announced on I/O with the help of modern frameworks like Rx, Kotlin and MVP.",
+        "title": "TBD",
+        "description": "Coming soon.",
         "speakers": [
-            19
+            1
         ],
         "language": "English",
         "complexity": "Intermediate",
@@ -186,10 +186,10 @@
     },
     "121": {
         "id": 121,
-        "title": "Offline-first progressive web apps",
-        "description": "Using service workers and other modern progressive web apps capabilities we can update our web applications to be offline-fires. In this session we'll show how to easily convert your applications be usable without the internet connection.",
+        "title": "ExoPlayer: Media playback without pain",
+        "description": "If you have any experience with Android Media Player, you definitely know how hard it is to prepare it and do not lose your mind. ExoPlayer - is an alternative, which can help you deal with media with much less pain. So lets discuss if it really a \"silver bullet\" or yet another State Machine hell.",
         "speakers": [
-            18
+            9
         ],
         "language": "English",
         "complexity": "Intermediate",
@@ -199,15 +199,15 @@
     },
     "120": {
         "id": 120,
-        "title": "Progressive web apps - prepare your web for 2017",
-        "description": "\"Remember back when AJAX completely changed what was possible in the desktop web? Progressive web apps are that same fundamental shift for the mobile web.\" said Rahul Row-Chowdhury (Google\u2019s product lead for chrome and the web platform) on stage at Google I/O 2016. - Progressive web apps use service workers, app shell, push notifications, RAIL and other capabilities to deliver an app-like user experience.",
+        "title": "The Tensor Must Flow",
+        "description": "During this talk we will figure out what is TensorFlow, how it works - key concepts and how it should flow. We will find out what is hidden behind the magic words - \"Artificial Neural Network\". Will be shown how can you do image recognition with it. What additional tools you can use for visualisations and more stuff... If you are interested in machine learning (novice or advance), you will hear something new for you ;)",
         "speakers": [
-            18
+            7
         ],
         "language": "English",
         "complexity": "Beginner",
         "tags": [
-            "Web"
+            "Cloud"
         ]
     },
     "119": {
@@ -264,8 +264,8 @@
     },
     "115": {
         "id": 115,
-        "title": "Android tool-chain and run-time improvements in N",
-        "description": "Upcoming Android N release will bring some interesting changes to both Android run-time and toolchain. Let's talk about JIT, AOT, hybrid JIT/AOT, Jack, Jill and other acronyms and codenames ;-) In this presentation we'll see how many awesome tricks are needed to make our apps start fast and run smoothly on modern Android devices. Hopefully we'll also answer the most important question -- what's next for Android after Java.",
+        "title": "Web notifications with Polymer & Firebase",
+        "description": "Google recently introduced FCM for the web and we at Step Up Labs were cooperating with Google as launch partners and successfully implemented it prior to launch. I am going to share with you our experience and the impact this had on our users.",
         "speakers": [
             13
         ],
@@ -290,10 +290,10 @@
     },
     "113": {
         "id": 113,
-        "title": "Microservices in Google App Engine",
-        "description": "Microservices is coming with a certain workload and constraints. Let's try to see how Google Cloud Platform and App Engine can help the overall microservices implementation.",
+        "title": "Meeting with OpenCV",
+        "description": "Coming soon",
         "speakers": [
-            11
+            5
         ],
         "language": "English",
         "complexity": "Intermediate",
@@ -329,8 +329,8 @@
     },
     "110": {
         "id": 110,
-        "title": "The ultimate guide to MVP pattern on Android",
-        "description": "There's a lot of hype around MVP pattern in the Android world. Now it's time for concretes. During his presentation Mateusz will tell you how IG divided responsibilities between pattern's different components, how they tied Presenters' and Views' lifecycles and what they did to make it all testable. If you'd love to make your Fragments' and Activities' code simpler and increase your coverage, but you're confused how to glue it all together - don't miss Mateusz's talk.",
+        "title": "Guide to the jungle of testing framework",
+        "description": "There are many tools, libraries and frameworks available for Android developers to test their applications. The jungle is huge and it's not easy to find the right ones. Some frameworks are good for unit testing, some are good for instrumentation testing, and some can be used for both. Some have great capabilities but annoying weaknesses. Some are good for testing UI, other allow you to make good mocks. We will look at many frameworks, the popular ones like Mockito, Robolectric, Espresso, and some other.",
         "speakers": [
             8
         ],
@@ -355,15 +355,15 @@
     },
     "108": {
         "id": 108,
-        "title": "New Data Architecture in Angular 2",
-        "description": "Angular 2 introduces a new Data Architecture based on Reactive Programming using RxJS 5. We are really excited to see the new approach using Observable sequences aka Observables. We will cover a basic introduction of Angular 2 followed by RxJS 5 and the new HTTP API covering some basic use cases.",
+        "title": "Annotation Preprocessing in Android",
+        "description": "Writing code is cool, but see it generating automatically is even cooler! This talk will be a case study about possibilities of Annotation Preprocessing in Java development. Let's look into popular libraries and frameworks that are using Annotation Preprocessing (like Lombok, Dagger 2, Retrofit, MapStruct), talk about it pros and cons compared with Reflection / Runtime Code Generation and discuss how you can create your own library that will generate boilerplate code at compile time.",
         "speakers": [
             6
         ],
         "language": "English",
         "complexity": "Intermediate",
         "tags": [
-            "Web"
+            "Android"
         ]
     },
     "107": {
@@ -407,10 +407,10 @@
     },
     "104": {
         "id": 104,
-        "title": "The Physical Web: Context is King!",
-        "description": "It's no longer just about digitizing our environment. It\u2019s rather about pervasive and ubiquitous computing. Almost all everyday things will turn into connected devices soon. This \u201cInternet of Things\u201d will allow the Web to be physically tangible. But what is the value, and how can one prevent IoT applications which just seem to be only more expensive and complicated than conventional solutions. Sascha will discuss the purpose and guide you through this complex topic showing inspiring solutions, tips from practice, and code samples in a variety of technologies from simple Bluetooth Eddystone Beacons to more sophisticated IoT platforms like Eclipse SmartHome.",
+        "title": "TBD",
+        "description": "Coming soon",
         "speakers": [
-            3
+            2
         ],
         "language": "English",
         "complexity": "Beginner",
@@ -446,10 +446,10 @@
     },
     "101": {
         "id": 101,
-        "title": "Windows and .NET on Google Cloud Platform ",
-        "description": "In this session, we will take a look at Windows and .NET support on Google Cloud Platform. We will build a simple ASP.NET app, deploy to Google Compute Engine and take a look at some of the tools and APIs available to .NET developers on Google Cloud Platform. ",
+        "title": "Dockerization ",
+        "description": "During this workshop all of you will have one common goal. Only together you will make an application successfully up and running. You will write Dockerfiles, building images, configuring Docker Compose, even work with Docker Registry. Be ready. It will be very active.",
         "speakers": [
-            1
+            7
         ],
         "language": "English",
         "complexity": "Beginner",

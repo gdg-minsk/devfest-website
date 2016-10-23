@@ -43,14 +43,14 @@
         "endTime": "14:40",
         "sessions": [
             [101],
-            [118]
+            [140]
         ]
     }, {
         "startTime": "14:50",
         "endTime": "15:30",
         "sessions": [
-            [140],
-            [126]
+            [101],
+            [140]
         ]
     }, {
         "startTime": "15:30",
@@ -62,21 +62,21 @@
         "startTime": "16:00",
         "endTime": "16:40",
         "sessions": [
-            [105],
+            [101],
             [127]
         ]
     }, {
         "startTime": "16:50",
         "endTime": "17:30",
         "sessions": [
-            [112],
+            [101],
             [111]
         ]
     }, {
         "startTime": "17:40",
         "endTime": "18:20",
         "sessions": [
-            [106],
+            [101],
             [125]
         ]
     }, {
@@ -95,17 +95,10 @@
         "title": "Unicorn Hall"
     }],
     "timeslots": [{
-        "startTime": "09:30",
-        "endTime": "10:10",
+        "startTime": "10:00",
+        "endTime": "11:00",
         "sessions": [
             [135]
-        ]
-    }, {
-        "startTime": "10:10",
-        "endTime": "10:50",
-        "sessions": [
-            [114],
-            [117]
         ]
     }, {
         "startTime": "11:00",
@@ -115,51 +108,71 @@
             [113]
         ]
     }, {
-        "startTime": "11:50",
-        "endTime": "12:30",
+        "startTime": "11:40",
+        "endTime": "12:20",
         "sessions": [
             [104],
-            [124]
+            [104]
+        ]
+    }, {
+        "startTime": "12:20",
+        "endTime": "12:30",
+        "sessions": [
+            [134]
         ]
     }, {
         "startTime": "12:30",
-        "endTime": "14:00",
-        "sessions": [
-            [133]
-        ]
-    }, {
-        "startTime": "14:00",
-        "endTime": "14:40",
+        "endTime": "13:10",
         "sessions": [
             [108],
-            [128]
+            [104]
+        ]
+    }, {
+        "startTime": "13:10",
+        "endTime": "13:50",
+        "sessions": [
+            [110],
+            [104]
+        ]
+    }, {
+        "startTime": "13:50",
+        "endTime": "14:50",
+        "sessions": [
+            [133]
         ]
     }, {
         "startTime": "14:50",
         "endTime": "15:30",
         "sessions": [
-            [110],
-            [123]
+            [131],
+            [104]
         ]
     }, {
         "startTime": "15:30",
-        "endTime": "16:00",
+        "endTime": "16:10",
+        "sessions": [
+            [115],
+            [104]
+        ]
+    }, {
+        "startTime": "16:10",
+        "endTime": "16:30",
         "sessions": [
             [134]
         ]
     }, {
-        "startTime": "16:00",
-        "endTime": "16:40",
+        "startTime": "16:30",
+        "endTime": "17:10",
         "sessions": [
-            [131],
-            [140]
+            [120],
+            [104]
         ]
     }, {
-        "startTime": "16:50",
-        "endTime": "17:30",
+        "startTime": "17:10",
+        "endTime": "17:50",
         "sessions": [
-            [115],
-            [140]
+            [121],
+            [104]
         ]
     }]
 }]
